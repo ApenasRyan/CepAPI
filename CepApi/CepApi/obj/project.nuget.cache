@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpaRUrjY2WSxuveOnvwpCC3O3Qi3RUDfV6kiHqx6Fnz4+TDk+nH6F6m5OhI+vAWVICmXsUZLT+pPFi9V9qUOVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eu\\Desktop\\repos\\CepAPI\\CepAPI\\CepApi\\CepApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eu\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Eu\\.nuget\\packages\\refit\\4.6.99\\refit.4.6.99.nupkg.sha512"
+  ],
+  "logs": []
+}

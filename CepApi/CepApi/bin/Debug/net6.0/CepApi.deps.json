@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CepApi/1.0.0": {
+        "dependencies": {
+          "Refit": "4.6.99"
+        },
+        "runtime": {
+          "CepApi.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "Refit/4.6.99": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Refit.dll": {
+            "assemblyVersion": "4.6.0.0",
+            "fileVersion": "4.6.99.36684"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CepApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "Refit/4.6.99": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3aJivSxfrNsFgjVrdnlsaCxh9X81+lkzFTqOB6NZ5zlk1YwuPTZMQmGZnu0GBCs2Skpo0euNqW0cbAHAdqlB5g==",
+      "path": "refit/4.6.99",
+      "hashPath": "refit.4.6.99.nupkg.sha512"
+    }
+  }
+}
