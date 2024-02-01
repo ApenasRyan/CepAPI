@@ -2,9 +2,10 @@
 ---
 ![coding](https://github.com/ApenasRyan/uploadBioLinkSite/blob/main/programming.gif)
 
->Consumindo uma API relacionada a busca de informações de endereço utilizando o CEP de forma simples utilizando apenas o <b>C#</b> e o pacote <b>REFIT</b>.
+>Desenvolvi um aplicativo de console em C# que consome uma API para buscar endereços com base no CEP, utilizando o pacote NuGet chamado <b>REFIT</b>. Com uma interface intuitiva, feedback em tempo real e tratamento de erros, o aplicativo otimiza a consulta por meio da API de maneira eficiente. Ao executar o programa, basta inserir o CEP desejado para receber informações detalhadas sobre o endereço associado, tornando a busca de dados de endereço simples e rápida..
 
-><b>Considerações finais: </br>Foi um projeto bem simples e divertido sem muitos problemas para concluir e entender seu funcionamento por completo.
+><b>Considerações finais: </br>
+Desenvolver o aplicativo de console em C# com REFIT para consultar endereços por CEP foi uma tarefa divertida. O projeto fluiu tranquilamente, destacando a eficácia da solução. Isso reforça a ideia de que, com as ferramentas certas, é possível criar soluções úteis de maneira bem simples.
 
-
+...imagens do console app funcionando...
 
