@@ -8,7 +8,7 @@ ________________________________________
 ...imagens do console app funcionando...
 ________________________________________
 
-><b>Considerações finais: </br>
+><b>Considerações finais: </b>
 Desenvolver o aplicativo de console em C# com REFIT para consultar endereços por CEP foi uma tarefa divertida. O projeto fluiu tranquilamente, destacando a eficácia da solução. Isso reforça a ideia de que, com as ferramentas certas, é possível criar soluções úteis de maneira bem simples.
 
 
